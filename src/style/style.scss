@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+// h1,
+// h2,
+// h3 {
+//   color: rgb(235, 235, 235);
+// }
+body {
+  font-family: "Poppins", sans-serif;
+  background: url("https://static.vecteezy.com/system/resources/previews/001/635/079/non_2x/aurora-borealis-phenomenon-banner-vector.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+h3,
+h4 {
+  font-weight: 400;
+}
+.mainPlay {
+  // backdrop-filter: blur(10px);
+  // border: 1px solid;
+  // width: fit-content;
+  // margin: auto;
+  color: white;
+}
+@import "./player";
+@import "./song";
+@import "./library";
+@import "./nav";
