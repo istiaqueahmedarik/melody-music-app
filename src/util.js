@@ -9,7 +9,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10074",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: false,
+      active: true,
     },
     {
       name: "বাংলাটা ঠিক আসে না",
@@ -19,7 +19,7 @@ function chillHop() {
       audio: "https://mcdn.podbean.com/mf/web/czy4xn/8f85x.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "মাগো ওরা বলে",
