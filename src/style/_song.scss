@@ -5,8 +5,13 @@
   flex-direction: column;
   align-items: center;
   img {
-    width: 20%;
-    border-radius: 50%;
+   border-radius: 50%;
+    height: 200px;
+    width: 200px !important;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   h2 {
     padding: 3rem 1rem 1rem 1rem;
