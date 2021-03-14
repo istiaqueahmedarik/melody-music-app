@@ -36,7 +36,7 @@ export default function Player({currentSong,isPlaying,setIsPlaying,audioRef,setS
         ) 
     };
     const dragHandler = (e) =>{
-        
+        //handle drag
         audioRef.current.currentTime=e.target.value
         setSongInfo({...songInfo,currentTime:e.target.value})
     }
