@@ -46,7 +46,7 @@ function chillHop() {
       cover:
         "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/160924010_1386304998409884_327000006837339307_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=b9115d&_nc_eui2=AeEcK3IwWGXoIfyEUNJWM7jOr_u9sl5qA-uv-72yXmoD60TiaB7ulRiULG2Db6FADnEx7OmsqpBZ3Cl7cO18uNYg&_nc_ohc=5qSY378fFe4AX9KSN-o&_nc_ht=scontent.fdac99-1.fna&oh=312430ee6ea8aec88b52bcfba9627b1a&oe=6073D81D",
       artist: "Md Sadat Alam Protik",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9148",
+      audio: "https://mcdn.podbean.com/mf/web/dkisdc/_Irsha_Golpo_Protidin_Special_Content_Audio_DramaNatok_1_6pmaq.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
